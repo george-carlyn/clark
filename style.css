@@ -18,6 +18,9 @@ body {
   color: #777;
   font-weight: 300;
   background-color: f7f7f7;
+  background: url(http://68.media.tumblr.com/b4b7ed6155fe312323a23098fd59d0e8/tumblr_ofqbqfpzpw1vjxaeuo1_500.gif) no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 .centered {
