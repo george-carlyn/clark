@@ -15,7 +15,7 @@ body {
   font-size: 1.3em;
   line-height: 1.6em;
   font-family: Helvetica Neue, Helvetica, Arial, serif;
-  color: #777;
+  color: black;
   font-weight: 300;
   background-color: f7f7f7;
   background: url(http://68.media.tumblr.com/b4b7ed6155fe312323a23098fd59d0e8/tumblr_ofqbqfpzpw1vjxaeuo1_500.gif) no-repeat;
@@ -41,14 +41,14 @@ Headline styling
 h1 {
   font-size: 1.5em;
   line-height: .5em;
-  color: #red;
+  color: black;
 }
 
 h2 {
   font-size: 1em;
   line-height: 1em;
   font-style: oblique;
-  color: #aaa;
+  color: #black;
 }
 
 h3 {
