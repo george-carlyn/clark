@@ -1,23 +1,35 @@
 body {
-  background-color: black;
+  background-color: #F4F8F0;
   font-size: 15px;
-  color: white;
+  color: #322E2E;
 }
 .container {
-  padding: 100px;
+  padding: 180px;
   max-width: 700px;
+  margin-left: 50px;
 }
 h1 {
-  font-family: Georgia;
+  font-family: Lato;
   font-size: 30px;
   font-weight: bold;
+  letter-spacing: 2px;
+}
+.Footer {
+  margin-left: 50px
+  padding: 100px;
+}
+h2 {
+  font-family: Lato;
+  font-size: 15px;
+  font-weight: normal;
+  color: #322E2E;
 }
 p {
   font-size: 25px;
-  font-family: Arial;
+  font-family: Lato;
   line-height: 125%;
 }
 a {
-  color: white;
-  
+  color: #322E2E;
+
 }
