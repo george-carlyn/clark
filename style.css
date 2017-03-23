@@ -1,12 +1,7 @@
 body {
-  background-color: #F4F8F0;
   font-size: 15px;
-  color: #322E2E;
-}
-.container {
-  padding: 130px 546px 35px 180px;
-  max-width: 700px;
-  margin-left: 50px;
+  margin: 0;
+  padding: 0;
 }
 h1 {
   font-family: Lato;
@@ -18,29 +13,57 @@ h1 {
 .Footer {
   margin-left: 50px
   padding: 100px;
+  margin-top: 85px;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
 }
 h2 {
   font-family: Lato;
   font-size: 14px;
   font-weight: normal;
-  color: #322E2E;
+  color: #FFFFFF;
   text-align: center; 
 }
 p {
-  font-size: 32px;
+  font-size: 30px;
   font-family: Lato;
   line-height: 125%;
   font-weight: lighter;
   letter-spacing: .8px;
 }
 a {
-  color: #322E2E;
+  color: #FFFFFF;
   text-decoration: none;
   margin-right: 48px;
 }
 li {
   font-size: 24px;
   list-style: none;
+}
+.Intro {
+  width: 100%;
+  height: 100vh;
+  background-color: #1C1B3A;
+  color: #FFFFFF;
+}
+.IntroContent {
+  width: 40%;
+  padding: 15% 0 0 15%;
+}
+.CaseStudy {
+  width: 100%;
+  height: 100vh;
+  background-color: #999;
+  color: black;
+}
+.CaseStudy.Pink {
+  background-color: pink;
+}
+.CaseStudyContent {
+  width: 40%;
+  padding: 15% 0 0 15%;
 }
 .Links {
   display: inline-block;
@@ -51,4 +74,11 @@ li {
 .hand {
   margin: -10px;
   text-align: center;
+}
+.container2 {
+  padding: 100px 546px 35px 180px;
+  margin-top: 85px;
+  max-width: 1440px;
+  margin-left: 225px;
+  background-color: #FFDDD3;
 }
